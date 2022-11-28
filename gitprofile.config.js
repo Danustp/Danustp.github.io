@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'Danusto',
-    twitter: 'Abdul_Zans',
+    tiktok: 'Abdul_Zans',
     facebook: 'Abdul Malik Rizky',
     instagram: 'black_team_indonesia',
     dribbble: '',
