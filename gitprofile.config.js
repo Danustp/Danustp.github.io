@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ZansLord',
+    linkedin: 'Danusto',
     twitter: 'Abdul_Zans',
     facebook: 'Abdul Malik Rizky',
     instagram: 'black_team_indonesia',
