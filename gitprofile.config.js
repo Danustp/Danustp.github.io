@@ -11,18 +11,18 @@ const config = {
     },
   },
   social: {
-    linkedin: 'Danusto',
-    tiktok: 'Abdul_Zans',
-    facebook: 'Abdul Malik Rizky',
-    instagram: 'black_team_indonesia',
+    linkedin: '',
+    twitter: '',
+    facebook: 'Danu S',
+    instagram: '',
     dribbble: '',
     behance: '',
     medium: '',
     dev: '',
-    stackoverflow: '20615525/ZansLord', // format: userid/username
-    website: 'https://elaina-multidevice.zanslord.repl.co/',
-    phone: '+6285869074622',
-    email: 'abdulzans11@gmail.com',
+    stackoverflow: '20615525/Danustp', // format: userid/username
+    website: 'https://replit.com/@RahulSitepu',
+    phone: '+6287762402201',
+    email: 'sitepurahul28@gmail.com',
   },
   resume: {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
@@ -42,14 +42,14 @@ const config = {
   ],
   experiences: [
     {
-      company: ' Black Team Meme Indonesia ',
+      company: ' PEMULA MAS HARUS DI AJARIN ',
       position: 'Admin',
       from: 'July 2018',
       to: 'Now',
-      companyLink: 'https://instagram.com/black_team_indonesia',
+      companyLink: 'NTAR AJA KLO UDAH ADA',
     },
     {
-      company: ' Elaina-Chan Bot MultiDevice ',
+      company: ' RAIDEN SHOGUN BOTZ MD ',
       position: 'owner',
       from: '26 Nov 2022',
       to: 'Now',
@@ -58,13 +58,13 @@ const config = {
   ],
   education: [
     {
-      institution: 'SDN JELEKONG',
+      institution: 'SDN 1 KOLONG JEMBATAN',
       degree: 'Murid',
       from: '2015',
       to: '2021',
     },
     {
-      institution: 'SMPN 2 BALEENDAH',
+      institution: 'SMP N 1 ISEKAI',
       degree: 'Pelajar',
       from: '2021',
       to: 'now',
